@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Amjad Alsallot	eng.amjad1986@hotmail.com	@ajamjad
 
 # THANKS
 
